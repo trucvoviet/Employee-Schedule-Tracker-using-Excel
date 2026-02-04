@@ -27,6 +27,16 @@
 
 This project demonstrates how to build a **fully dynamic monthly work schedule tracker in Excel** that updates automatically based on a selected start date.
 
+> Example outputs of the completed tracker.
+
+### Monthly Schedule View
+
+![Monthly Work Schedule](imgs/Dashboard-1.png)
+
+### Shift Summary
+
+![Shift Summary](imgs/Dashboard-2.png)
+
 ---
 
 ## ✨ Features
@@ -292,15 +302,6 @@ Automatically updates:
 
 ---
 
-## 📸 Screenshots
 
-> Example outputs of the completed tracker.
 
-### Monthly Schedule View
-
-![Monthly Work Schedule](imgs/Dashboard-1.png)
-
-### Shift Summary
-
-![Shift Summary](imgs/Dashboard-2.png)
 
