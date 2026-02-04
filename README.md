@@ -300,7 +300,7 @@ Automatically updates:
 
 ![Monthly Work Schedule](imgs/Dashboard-1.png)
 
-### Shift Summary & Coverage Check
+### Shift Summary
 
 ![Shift Summary](imgs/Dashboard-2.png)
 
