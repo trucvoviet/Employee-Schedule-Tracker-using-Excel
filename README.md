@@ -298,9 +298,9 @@ Automatically updates:
 
 ### Monthly Schedule View
 
-![Monthly Work Schedule](imgs/dashboard-1.png)
+![Monthly Work Schedule](imgs/Dashboard-1.png)
 
 ### Shift Summary & Coverage Check
 
-![Shift Summary](imgs/dashboard-2.png)
+![Shift Summary](imgs/Dashboard-2.png)
 
